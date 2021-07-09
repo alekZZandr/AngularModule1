@@ -1,0 +1,14 @@
+body {
+  font-size: 16px;
+  font-family: 'Arial', sans-serif;
+  margin: 0 auto;
+  text-align: center;
+}
+button {
+  margin-top: 15px;
+}
+#lunch-menu {
+  height: 70px;
+  width: 400px;
+  text-align: center;
+}
